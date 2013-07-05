@@ -142,6 +142,7 @@
     }
     
     invoke_daemon();
+    #@invoke_daemon();      #Might work better if mail() ends up throwing fatal errors on bad emails.
     header('Location:application_completed.php');
         
 ?>
