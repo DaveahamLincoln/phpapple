@@ -3,9 +3,12 @@
 <?php 
 	session_start();
 	date_default_timezone_set('UCT');
+    $errFlag = 0;    
+    
     if ($_SERVER["REQUEST_METHOD"] == 'POST') {
         if (empty($_POST["fullName"])) {
             $fullNameErr = "Please enter your name.";
+            $errFlag = 1;
         }
         else {
             $fullName = $_POST["fullName"];
@@ -61,8 +64,21 @@
             $_SESSION['actsat'] = $actsat;
             $_SESSION['gpa'] = $gpa;
             $_SESSION['transferCredit'] = $transferCredit;
-            $_SESSION['majorsMinors'] = $majorsMinors;        
+            $_SESSION['majorsMinors'] = $majorsMinors;       
             header('Location:application_f2.php');
+            
+            /*      DEBUGGING            
+            echo $_SESSION['fullName'];
+            echo $_SESSION['emailAddress'];
+            echo $_SESSION['cwid'];
+            echo $_SESSION['livingOption'];
+            echo $_SESSION['phoneNumber'];
+            echo $_SESSION['mailingAddress'];
+            echo $_SESSION['actsat'];
+            echo $_SESSION['gpa'] = $gpa;
+            echo $_SESSION['transferCredit'];
+            echo $_SESSION['majorsMinors'];
+            */
         }
     }    
     
@@ -73,11 +89,11 @@
 		<h1>Application For The Mallet Assembly</h1>
 			<form name="admissionsApp1" method="POST" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>">
 				<p>
-					Fields marked with an * are required.
+					Fields marked with an asterisk are required.
 				</p>
 
 				<p>
-					<input type= "text" name= "fullName" size="35" placeholder="Full Name" value="<?php echo htmlspecialchars($fullName);?>">*  
+					<input type= "text" name= "fullName" size="35" placeholder="Full Name" value="<?php echo htmlspecialchars($_SESSION['fullName']);?>">*  <!---No idea if this $_SESSION[] call will work, c9 doesn't support PHP sessions, so I can't test it =.= --->
                     <span class="error"><?php echo $fullNameErr;?></span>       <!--the error class is a hook for CSS error formatting-->
 				</p>
 
@@ -87,7 +103,7 @@
 				</p>
 
 				<p>
-					<input type= "text" name= "cwid" size="35" placeholder="CWID" value="<?php echo htmlspecialchars($cwid);?>">*  
+					<input type= "text" name= "cwid" size="35" placeholder="CWID" value="<?php echo htmlspecialchars($cwid);?>">*
                     <span class="error"><?php echo $cwidErr;?></span>  
 				</p>
 
