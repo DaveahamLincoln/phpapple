@@ -284,3 +284,45 @@
 {"ts":1372989323358,"patch":[[{"diffs":[[0,"nors'];\n   \n"],[1,"   \n"],[0,"    if ($_SE"]],"start1":457,"start2":457,"length1":24,"length2":28}]],"length":3172,"saved":false}
 {"ts":1372989325049,"patch":[[{"diffs":[[0,"inors'];\n   "],[1,"*/"],[0,"\n   \n    if "]],"start1":456,"start2":456,"length1":24,"length2":26}]],"length":3174,"saved":false}
 {"ts":1372989335061,"patch":[[{"diffs":[[0," \n    /*"],[1,"    "],[0,"  DEBUGG"]],"start1":102,"start2":102,"length1":16,"length2":20}]],"length":3178,"saved":false}
+{"contributors":[],"silentsave":true,"ts":1373039689016,"patch":[[{"diffs":[[0,"html5>\n\n"],[1,"\n"],[0,"<?php \n "]],"start1":10,"start2":10,"length1":16,"length2":17}]],"length":3179,"saved":false}
+{"ts":1373039692261,"patch":[[{"diffs":[[0," html5>\n"],[1,"<!-"],[0,"\n\n<?php "]],"start1":9,"start2":9,"length1":16,"length2":19}]],"length":3182,"saved":false}
+{"ts":1373039693210,"patch":[[{"diffs":[[0,"ml5>\n<!-"],[1,"--"],[0,"\n\n<?php "]],"start1":12,"start2":12,"length1":16,"length2":18}]],"length":3184,"saved":false}
+{"ts":1373039694734,"patch":[[{"diffs":[[0,"5>\n<!---"],[1,"Ok"],[0,"\n\n<?php "]],"start1":14,"start2":14,"length1":16,"length2":18}]],"length":3186,"saved":false}
+{"ts":1373039695921,"patch":[[{"diffs":[[0," html5>\n"],[1,"\n"],[0,"<!---Ok\n"]],"start1":9,"start2":9,"length1":16,"length2":17}]],"length":3187,"saved":false}
+{"ts":1373039698931,"patch":[[{"diffs":[[0,"\n<!---Ok"],[1,", so since "],[0,"\n\n<?php "]],"start1":17,"start2":17,"length1":16,"length2":27}]],"length":3198,"saved":false}
+{"ts":1373039701354,"patch":[[{"diffs":[[0,"o since "],[1,"c9 does"],[0,"\n\n<?php "]],"start1":28,"start2":28,"length1":16,"length2":23}]],"length":3205,"saved":false}
+{"ts":1373039704373,"patch":[[{"diffs":[[0," c9 does"],[1,"n't suppors"],[0,"\n\n<?php "]],"start1":35,"start2":35,"length1":16,"length2":27}]],"length":3216,"saved":false}
+{"ts":1373039705825,"patch":[[{"diffs":[[0,"t suppor"],[-1,"s"],[1,"t "],[0,"\n\n<?php "]],"start1":45,"start2":45,"length1":17,"length2":18}]],"length":3217,"saved":false}
+{"ts":1373039708863,"patch":[[{"diffs":[[0,"support "],[1,"the "],[0,"\n\n<?php "]],"start1":47,"start2":47,"length1":16,"length2":20}]],"length":3221,"saved":false}
+{"ts":1373039710087,"patch":[[{"diffs":[[0,"ort the "],[1,"$"],[0,"\n\n<?php "]],"start1":51,"start2":51,"length1":16,"length2":17}]],"length":3222,"saved":false}
+{"ts":1373039712336,"patch":[[{"diffs":[[0,"rt the $"],[1,"_SESSIONS"],[0,"\n\n<?php "]],"start1":52,"start2":52,"length1":16,"length2":25}]],"length":3231,"saved":false}
+{"ts":1373039717735,"patch":[[{"diffs":[[0,"SESSIONS"],[1," array at this point, "],[0,"\n\n<?php "]],"start1":61,"start2":61,"length1":16,"length2":38}]],"length":3253,"saved":false}
+{"ts":1373039721864,"patch":[[{"diffs":[[0," point, "],[1,"I'"],[0,"\n\n<?php "]],"start1":83,"start2":83,"length1":16,"length2":18}]],"length":3255,"saved":false}
+{"ts":1373039723233,"patch":[[{"diffs":[[0,"oint, I'"],[1,"m go"],[0,"\n\n<?php "]],"start1":85,"start2":85,"length1":16,"length2":20}]],"length":3259,"saved":false}
+{"ts":1373039724756,"patch":[[{"diffs":[[0,", I'm go"],[1,"ing to "],[0,"\n\n<?php "]],"start1":89,"start2":89,"length1":16,"length2":23}]],"length":3266,"saved":false}
+{"ts":1373039730849,"patch":[[{"diffs":[[0,"oing to "],[1,"h"],[0,"\n\n<?php "]],"start1":96,"start2":96,"length1":16,"length2":17}]],"length":3267,"saved":false}
+{"ts":1373039732517,"patch":[[{"diffs":[[0,"ing to h"],[1,"ave to do"],[0,"\n\n<?php "]],"start1":97,"start2":97,"length1":16,"length2":25}]],"length":3276,"saved":false}
+{"ts":1373039733517,"patch":[[{"diffs":[[0,"ve to do"],[1," a "],[0,"\n\n<?php "]],"start1":106,"start2":106,"length1":16,"length2":19}]],"length":3279,"saved":false}
+{"ts":1373039738859,"patch":[[{"diffs":[[0,"to do a "],[1,"lot of this without debuggin"],[0,"\n\n<?php "]],"start1":109,"start2":109,"length1":16,"length2":44}]],"length":3307,"saved":false}
+{"ts":1373039739685,"patch":[[{"diffs":[[0,"debuggin"],[1,"g"],[0,"\n\n<?php "]],"start1":137,"start2":137,"length1":16,"length2":17}]],"length":3308,"saved":false}
+{"ts":1373039741629,"patch":[[{"diffs":[[0,"ebugging"],[1," it"],[0,"\n\n<?php "]],"start1":138,"start2":138,"length1":16,"length2":19}]],"length":3311,"saved":false}
+{"ts":1373039743722,"patch":[[{"diffs":[[0,"gging it"],[1," and then "],[0,"\n\n<?php "]],"start1":141,"start2":141,"length1":16,"length2":26}]],"length":3321,"saved":false}
+{"ts":1373039745192,"patch":[[{"diffs":[[0," then \n\n"],[1,"\n"],[0,"<?php \n "]],"start1":153,"start2":153,"length1":16,"length2":17}]],"length":3322,"saved":false}
+{"ts":1373039746553,"patch":[[{"diffs":[[0,"d then \n"],[1,"tes"],[0,"\n\n<?php "]],"start1":152,"start2":152,"length1":16,"length2":19}]],"length":3325,"saved":false}
+{"ts":1373039749567,"patch":[[{"diffs":[[0,"hen \ntes"],[1,"t it on "],[0,"\n\n<?php "]],"start1":155,"start2":155,"length1":16,"length2":24}]],"length":3333,"saved":false}
+{"ts":1373039750493,"patch":[[{"diffs":[[0,"t it on "],[1,"a "],[0,"\n\n<?php "]],"start1":163,"start2":163,"length1":16,"length2":18}]],"length":3335,"saved":false}
+{"ts":1373039753635,"patch":[[{"diffs":[[0,"it on a "],[1,"live server"],[0,"\n\n<?php "]],"start1":165,"start2":165,"length1":16,"length2":27}]],"length":3346,"saved":false}
+{"ts":1373039756709,"patch":[[{"diffs":[[0,"e server"],[1," once it's p"],[0,"\n\n<?php "]],"start1":176,"start2":176,"length1":16,"length2":28}]],"length":3358,"saved":false}
+{"ts":1373039759374,"patch":[[{"diffs":[[0,"e it's p"],[1,"rototyped."],[0,"\n\n<?php "]],"start1":188,"start2":188,"length1":16,"length2":26}]],"length":3368,"saved":false}
+{"ts":1373039760491,"patch":[[{"diffs":[[0,"totyped."],[1,"  "],[0,"\n\n<?php "]],"start1":198,"start2":198,"length1":16,"length2":18}]],"length":3370,"saved":false}
+{"ts":1373039771745,"patch":[[{"diffs":[[0,"totyped."],[-1,"  "],[1,"-"],[0,"\n\n<?php "]],"start1":198,"start2":198,"length1":18,"length2":17}]],"length":3369,"saved":false}
+{"ts":1373039772808,"patch":[[{"diffs":[[0,"otyped.-"],[1,"-->"],[0,"\n\n<?php "]],"start1":199,"start2":199,"length1":16,"length2":19}]],"length":3372,"saved":false}
+{"ts":1373039781040,"patch":[[{"diffs":[[0,"m going "],[1,"\n"],[0,"to have "]],"start1":93,"start2":93,"length1":16,"length2":17}]],"length":3373,"saved":false}
+{"ts":1373039783411,"patch":[[{"diffs":[[0,"nd then "],[-1,"\n"],[0,"test it "]],"start1":152,"start2":152,"length1":17,"length2":16}]],"length":3372,"saved":false}
+{"ts":1373039787673,"patch":[[{"diffs":[[0," server "],[1,"\n"],[0,"once it'"]],"start1":177,"start2":177,"length1":16,"length2":17}]],"length":3373,"saved":false}
+{"ts":1373039905461,"patch":[[{"diffs":[[0,"EBUGGING"],[1,"-"],[0,"\n    ech"]],"start1":312,"start2":312,"length1":16,"length2":17}]],"length":3374,"saved":false}
+{"ts":1373039909229,"patch":[[{"diffs":[[0,"EBUGGING"],[-1,"-"],[0,"\n    ech"]],"start1":312,"start2":312,"length1":17,"length2":16}]],"length":3373,"saved":false}
+{"ts":1373039913964,"patch":[[{"diffs":[[0,"/*      "],[1,"$_SESSION"],[0,"DEBUGGIN"]],"start1":303,"start2":303,"length1":16,"length2":25}]],"length":3382,"saved":false}
+{"ts":1373039915195,"patch":[[{"diffs":[[0,"_SESSION"],[1,"["],[0,"DEBUGGIN"]],"start1":312,"start2":312,"length1":16,"length2":17}]],"length":3383,"saved":false}
+{"ts":1373039917167,"patch":[[{"diffs":[[0,"_SESSION"],[-1,"["],[1," "],[0,"DEBUGGIN"]],"start1":312,"start2":312,"length1":17,"length2":17}]],"length":3383,"saved":false}
+{"ts":1373052450439,"patch":[[{"diffs":[[0,"pa']"],[-1," = $gpa"],[0,";\n  "]],"start1":587,"start2":587,"length1":15,"length2":8}]],"length":3376,"saved":false}

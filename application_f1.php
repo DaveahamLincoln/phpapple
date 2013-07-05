@@ -67,7 +67,7 @@
             $_SESSION['majorsMinors'] = $majorsMinors;       
             header('Location:application_f2.php');
             
-            /*      DEBUGGING            
+            /*      $_SESSION DEBUGGING            
             echo $_SESSION['fullName'];
             echo $_SESSION['emailAddress'];
             echo $_SESSION['cwid'];
@@ -93,7 +93,13 @@
 				</p>
 
 				<p>
-					<input type= "text" name= "fullName" size="35" placeholder="Full Name" value="<?php echo htmlspecialchars($_SESSION['fullName']);?>">*  <!---No idea if this $_SESSION[] call will work, c9 doesn't support PHP sessions, so I can't test it =.= --->
+					<input type= "text" name= "fullName" size="35" placeholder="Full Name" value="<?php echo htmlspecialchars($_SESSION['fullName']);?>">*  
+                    
+                    <!---No idea if this $_SESSION call will work, c9 doesn't support PHP sessions, so I can't test it =.= 
+                    The idea is to preserve the data in the form if the user goes back/refreshes.  This or the echo htmlspecialchars($var) 
+                    method should work, but there's no way for me to tell which one we need to use through the rest of the application until
+                    we've tested it on a live server.--->
+                    
                     <span class="error"><?php echo $fullNameErr;?></span>       <!--the error class is a hook for CSS error formatting-->
 				</p>
 

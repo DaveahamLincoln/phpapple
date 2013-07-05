@@ -1,0 +1,52 @@
+{"ts":1373053474204,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":true,"ts":1373053527341,"patch":[[{"diffs":[[1,"<?php \n    session_start();\n\tdate_default_timezone_set('UCT');"]],"start1":0,"start2":0,"length1":0,"length2":62}]],"length":62,"saved":false}
+{"ts":1373053528901,"patch":[[{"diffs":[[0,"('UCT');"],[1,"\n"]],"start1":54,"start2":54,"length1":8,"length2":9}]],"length":63,"saved":false}
+{"ts":1373053530856,"patch":[[{"diffs":[[0,"'UCT');\n"],[1,"?>"]],"start1":55,"start2":55,"length1":8,"length2":10}]],"length":65,"saved":false}
+{"ts":1373053536949,"patch":[[{"diffs":[[0,"start();"],[1,"        "],[0,"\n\tdate_d"]],"start1":19,"start2":19,"length1":16,"length2":24}]],"length":73,"saved":false}
+{"ts":1373053539385,"patch":[[{"diffs":[[0,"        "],[1,"<"],[0,"\n\tdate_d"]],"start1":27,"start2":27,"length1":16,"length2":17}]],"length":74,"saved":false}
+{"ts":1373053542239,"patch":[[{"diffs":[[0,"       <"],[1,"!---C"],[0,"\n\tdate_d"]],"start1":28,"start2":28,"length1":16,"length2":21}]],"length":79,"saved":false}
+{"ts":1373053547474,"patch":[[{"diffs":[[0,"hp \n"],[-1,"    session_start();        <!---C\n"],[0,"\tdat"]],"start1":3,"start2":3,"length1":43,"length2":8}]],"length":44,"saved":false}
+{"ts":1373053548640,"patch":[[{"diffs":[[0,"CT');\n?>"],[1,"\n\n"]],"start1":36,"start2":36,"length1":8,"length2":10}]],"length":46,"saved":false}
+{"ts":1373053549424,"patch":[[{"diffs":[[0,"');\n?>\n\n"],[1,"    "]],"start1":38,"start2":38,"length1":8,"length2":12}]],"length":50,"saved":false}
+{"ts":1373053562280,"patch":[[{"diffs":[[1,"<!DOCTYPE html5>\n\n"],[0,"<?php \n\t"]],"start1":0,"start2":0,"length1":8,"length2":26}]],"length":68,"saved":false}
+{"ts":1373053571682,"patch":[[{"diffs":[[0,"?>\n\n"],[-1,"    "]],"start1":60,"start2":60,"length1":8,"length2":4}]],"length":64,"saved":false}
+{"ts":1373053588138,"patch":[[{"diffs":[[0,"');\n?>\n\n"],[1,"<html>\n    <body>\n\t\t<h1>Application For The Mallet Assembly</h1>"]],"start1":56,"start2":56,"length1":8,"length2":72}]],"length":128,"saved":false}
+{"ts":1373053592540,"patch":[[{"diffs":[[0,"<h1>"],[-1,"Application For The Mallet Assembly"],[0,"</h1"]],"start1":84,"start2":84,"length1":43,"length2":8}]],"length":93,"saved":false}
+{"ts":1373053595064,"patch":[[{"diffs":[[0,">\n\t\t<h1>"],[1,"Th"],[0,"</h1>"]],"start1":80,"start2":80,"length1":13,"length2":15}]],"length":95,"saved":false}
+{"ts":1373053596834,"patch":[[{"diffs":[[0,"\t\t<h1>Th"],[1,"anks "],[0,"</h1>"]],"start1":82,"start2":82,"length1":13,"length2":18}]],"length":100,"saved":false}
+{"ts":1373053599697,"patch":[[{"diffs":[[0,">Thanks "],[1,"for A"],[0,"</h1>"]],"start1":87,"start2":87,"length1":13,"length2":18}]],"length":105,"saved":false}
+{"ts":1373053606352,"patch":[[{"diffs":[[0,"hank"],[-1,"s"],[1," you"],[0," for "],[-1,"A"],[1,"your application!"],[0,"</h1"]],"start1":89,"start2":89,"length1":15,"length2":34}]],"length":124,"saved":false}
+{"ts":1373053608550,"patch":[[{"diffs":[[0,"on!</h1>"],[1,"\n        "]],"start1":116,"start2":116,"length1":8,"length2":17}]],"length":133,"saved":false}
+{"ts":1373053612878,"patch":[[{"diffs":[[0,"h1>\n        "],[1,"\n        "]],"start1":121,"start2":121,"length1":12,"length2":21}]],"length":142,"saved":false}
+{"ts":1373053614398,"patch":[[{"diffs":[[0,"        "],[-1,"\n        "]],"start1":125,"start2":125,"length1":17,"length2":8}]],"length":133,"saved":false}
+{"ts":1373053615811,"patch":[[{"diffs":[[0,"h1>\n        "],[1,"\n        "]],"start1":121,"start2":121,"length1":12,"length2":21}]],"length":142,"saved":false}
+{"ts":1373053617552,"patch":[[{"diffs":[[0,"       \n        "],[1,"<p>"]],"start1":126,"start2":126,"length1":16,"length2":19}]],"length":145,"saved":false}
+{"ts":1373053619699,"patch":[[{"diffs":[[0,"     <p>"],[1,"\n            "]],"start1":137,"start2":137,"length1":8,"length2":21}]],"length":158,"saved":false}
+{"ts":1373053629775,"patch":[[{"diffs":[[0,"<p>\n            "],[1,"A confirmation"]],"start1":142,"start2":142,"length1":16,"length2":30}]],"length":172,"saved":false}
+{"ts":1373053631594,"patch":[[{"diffs":[[0,"confirmation"],[1," email "]],"start1":160,"start2":160,"length1":12,"length2":19}]],"length":179,"saved":false}
+{"ts":1373053640797,"patch":[[{"diffs":[[0,"n email "],[1,"has been sent to the email address you provided."]],"start1":171,"start2":171,"length1":8,"length2":56}]],"length":227,"saved":false}
+{"ts":1373053642545,"patch":[[{"diffs":[[0,"rovided."],[1,"  "]],"start1":219,"start2":219,"length1":8,"length2":10}]],"length":229,"saved":false}
+{"ts":1373053643557,"patch":[[{"diffs":[[0,"vided.  "],[1,"I"]],"start1":221,"start2":221,"length1":8,"length2":9}]],"length":230,"saved":false}
+{"ts":1373053645301,"patch":[[{"diffs":[[0,"ided.  I"],[1,"f you "]],"start1":222,"start2":222,"length1":8,"length2":14}]],"length":236,"saved":false}
+{"ts":1373053648797,"patch":[[{"diffs":[[0,"ed.  If you "],[1,"encounter any "]],"start1":224,"start2":224,"length1":12,"length2":26}]],"length":250,"saved":false}
+{"ts":1373053652383,"patch":[[{"diffs":[[0,"ter any "],[1,"problems, cont"]],"start1":242,"start2":242,"length1":8,"length2":22}]],"length":264,"saved":false}
+{"ts":1373053655147,"patch":[[{"diffs":[[0,"ms, cont"],[1,"act us at "]],"start1":256,"start2":256,"length1":8,"length2":18}]],"length":274,"saved":false}
+{"ts":1373053670227,"patch":[[{"diffs":[[0,"t us at "],[1,"themalletassembly@gmail.com"]],"start1":266,"start2":266,"length1":8,"length2":35}]],"length":301,"saved":false}
+{"ts":1373053672451,"patch":[[{"diffs":[[0,"mail.com"],[1,"."]],"start1":293,"start2":293,"length1":8,"length2":9}]],"length":302,"saved":false}
+{"ts":1373053674191,"patch":[[{"diffs":[[0,"ail.com."],[1,"\n        "]],"start1":294,"start2":294,"length1":8,"length2":17}]],"length":311,"saved":false}
+{"ts":1373053674847,"patch":[[{"diffs":[[0,"il.com.\n        "],[1,"<"]],"start1":295,"start2":295,"length1":16,"length2":17}]],"length":312,"saved":false}
+{"ts":1373053676770,"patch":[[{"diffs":[[0,"l.com.\n        <"],[1,"/p>"]],"start1":296,"start2":296,"length1":16,"length2":19}]],"length":315,"saved":false}
+{"ts":1373053689006,"patch":[[{"diffs":[[0,"problems"],[1," or don't rec'"],[0,", contac"]],"start1":250,"start2":250,"length1":16,"length2":30}]],"length":329,"saved":false}
+{"ts":1373053690179,"patch":[[{"diffs":[[0,"on't rec"],[1,"iev"],[0,"', conta"]],"start1":263,"start2":263,"length1":16,"length2":19}]],"length":332,"saved":false}
+{"ts":1373053691512,"patch":[[{"diffs":[[0," rec"],[1,"e"],[0,"i"],[-1,"ev"],[0,"', c"]],"start1":267,"start2":267,"length1":11,"length2":10}]],"length":331,"saved":false}
+{"ts":1373053693769,"patch":[[{"diffs":[[0,"'t recei"],[1,"ve an email"],[0,"', conta"]],"start1":265,"start2":265,"length1":16,"length2":27}]],"length":342,"saved":false}
+{"ts":1373053694868,"patch":[[{"diffs":[[0,"an email"],[-1,"'"],[0,", contac"]],"start1":276,"start2":276,"length1":17,"length2":16}]],"length":341,"saved":false}
+{"ts":1373053701890,"patch":[[{"diffs":[[0,"mail.com"],[1," for assistance"],[0,".\n      "]],"start1":319,"start2":319,"length1":16,"length2":31}]],"length":356,"saved":false}
+{"ts":1373053704545,"patch":[[{"diffs":[[0,"    </p>"],[1,"\n        "]],"start1":348,"start2":348,"length1":8,"length2":17}]],"length":365,"saved":false}
+{"ts":1373053714899,"patch":[[{"diffs":[[0,"   </p>\n        "],[1,"\n        "]],"start1":349,"start2":349,"length1":16,"length2":25}]],"length":374,"saved":false}
+{"ts":1373053745204,"patch":[[{"diffs":[[0,"  </p>\n        \n    "],[-1,"    "]],"start1":350,"start2":350,"length1":24,"length2":20}]],"length":370,"saved":false}
+{"ts":1373053747605,"patch":[[{"diffs":[[0,"    "],[-1,"<p>\n"],[1,"    <p>\n    "],[0,"    "]],"start1":138,"start2":138,"length1":12,"length2":20}]],"length":378,"saved":false}
+{"ts":1373053748453,"patch":[[{"diffs":[[0,"        "],[1,"    "],[0,"</p>\n   "]],"start1":352,"start2":352,"length1":16,"length2":20}]],"length":382,"saved":false}
+{"ts":1373053749769,"patch":[[{"diffs":[[0,"   </p>\n    "],[-1,"    "],[0,"\n    "]],"start1":361,"start2":361,"length1":21,"length2":17}]],"length":378,"saved":false}
+{"ts":1373053752875,"patch":[[{"diffs":[[0,"   </p>\n    "],[1,"</body>\n<"],[0,"\n    "]],"start1":361,"start2":361,"length1":17,"length2":26}]],"length":387,"saved":false}
+{"ts":1373053755265,"patch":[[{"diffs":[[0,"/body>\n<"],[1,"/html>"],[0,"\n    "]],"start1":374,"start2":374,"length1":13,"length2":19}]],"length":393,"saved":false}

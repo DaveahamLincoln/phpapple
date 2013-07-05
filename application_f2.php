@@ -1,11 +1,15 @@
 <!DOCTYPE html5>
 
+<!---Ok, so since c9 doesn't support the $_SESSIONS array at this point, I'm going 
+to have to do a lot of this without debugging it and then test it on a live server 
+once it's prototyped.--->
+
 <?php 
     session_start();
 	date_default_timezone_set('UCT');
     $errFlag = 0;
     
-    /*      DEBUGGING
+    /*      $_SESSION DEBUGGING
     echo $_SESSION['fullName'];
     echo $_SESSION['emailAddress'];
     echo $_SESSION['cwid'];
@@ -13,7 +17,7 @@
     echo $_SESSION['phoneNumber'];
     echo $_SESSION['mailingAddress'];
     echo $_SESSION['actsat'];
-    echo $_SESSION['gpa'] = $gpa;
+    echo $_SESSION['gpa'];
     echo $_SESSION['transferCredit'];
     echo $_SESSION['majorsMinors'];
    */
